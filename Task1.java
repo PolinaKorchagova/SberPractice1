@@ -1,5 +1,4 @@
 package com.company;
-
 public class Task1 {
 
     class ArrayBubble {

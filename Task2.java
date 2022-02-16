@@ -1,5 +1,4 @@
 package com.company;
-
 public class Task2 {
     static void quicksort(int[] arr, int low, int high){  // метод быстрой сортировки
         if(low < high){
