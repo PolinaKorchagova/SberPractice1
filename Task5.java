@@ -1,5 +1,4 @@
 package com.company;
-
 public class Task5 {
     public static void main(String[]args) {
         int a = 2, b = 100;
